@@ -1,2 +1,4 @@
 Squares
 =======
+
+Numbers puzzle
