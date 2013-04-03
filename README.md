@@ -1,4 +1,4 @@
 Squares
 =======
 
-Numbers puzzle
+Numbers puzzle, like soduku but more colourful!
